@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "d9ca5631-c693-6252-866d-63683c0c453e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "958040e1-4317-436a-82f5-a5597867c374",
+    "website": "2201-introduction-to-nuclear-engineering-and-ionizing-radiation"
+  },
+  "course_title": "Introduction to Nuclear Engineering and Ionizing Radiation",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This course provides an introduction to nuclear science and its engineering applications. It describes basic nuclear models, radioactivity, nuclear reactions, and kinematics; covers the interaction of ionizing radiation with matter, with an emphasis on radiation detection, radiation shielding, and radiation effects on human health; and presents energy systems based on fission and fusion nuclear reactions, as well as industrial and medical applications of nuclear science.",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.01",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "2201-introduction-to-nuclear-engineering-and-ionizing-radiation"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem-solving Notes",
+    "Problem Sets",
+    "Exams with Solutions",
+    "Podcasts"
+  ],
+  "site_uid": "aa0977e3-3755-4cf5-a42e-57b27841aa79",
+  "site_short_id": "22.01-spring-2024",
+  "site_url_path": "courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024"
+}
