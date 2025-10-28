@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024/fLKNjWXk71s_transcript.pdf
 file_size: 55677
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
