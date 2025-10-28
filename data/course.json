@@ -27,7 +27,7 @@
     "website": "2201-introduction-to-nuclear-engineering-and-ionizing-radiation"
   },
   "course_title": "Introduction to Nuclear Engineering and Ionizing Radiation",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course provides an introduction to nuclear science and its engineering applications. It describes basic nuclear models, radioactivity, nuclear reactions, and kinematics; covers the interaction of ionizing radiation with matter, with an emphasis on radiation detection, radiation shielding, and radiation effects on human health; and presents energy systems based on fission and fusion nuclear reactions, as well as industrial and medical applications of nuclear science.",
   "department_numbers": [
@@ -39,7 +39,6 @@
     "content": "",
     "website": "2201-introduction-to-nuclear-engineering-and-ionizing-radiation"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem-solving Notes",
