@@ -12,15 +12,15 @@ SUPPLEMENTAL MATERIALS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "e63c297a-1a67-46a5-ba22-ebc177734dd3" "Problem Set 1: Nuclear History, Reactions, and Decay Modes (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Chadwick, James. [Possible Existence of a Neutron](https://www.nature.com/articles/129312a0). *Nature*. **129**: 312, 1932.
+Chadwick, James. {{% resource_link "c9c2bca3-fd81-46eb-930b-019c9a75cf83" "Possible Existence of a Neutron" %}}. *Nature*. **129**: 312, 1932.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "47618dab-2370-4f42-af54-6ae3f8971f24" "Problem Set 2: Nuclear Stability and Mass Parabolas (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Oganessian, Yuri Ts. and Krzysztof P. Rykaczewski. [A Beachhead on the Island of Stability](https://pubs.aip.org/physicstoday/article/68/8/32/415286/A-beachhead-on-the-island-of-stabilityRecent). *Physics Today.*  **68 (8)**: 32–38, 2015.
+Oganessian, Yuri Ts. and Krzysztof P. Rykaczewski. {{% resource_link "922ed6d6-3336-484a-8397-8da02fa3fccd" "A Beachhead on the Island of Stability" %}}. *Physics Today.*  **68 (8)**: 32–38, 2015.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "b8ec2592-e448-4d39-8ecd-6c6b98cda563" "Problem Set 3: Radioactive Decay, Energetics, and Kinematics (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Buesseler, Ken, Minhan Dai, et al. [Fukushima Daiichi–Derived Radionuclides in the Ocean: Transport, Fate, and Impacts](https://www.annualreviews.org/content/journals/10.1146/annurev-marine-010816-060733). *Annual Review of Marine Science*. **9**: 173–203, 2017.
+Buesseler, Ken, Minhan Dai, et al. {{% resource_link "c55b5f58-d9cb-40a2-a023-311be4830489" "Fukushima Daiichi–Derived Radionuclides in the Ocean: Transport, Fate, and Impacts" %}}. *Annual Review of Marine Science*. **9**: 173–203, 2017.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "1dd27e49-8c8d-493f-91d5-2969a482d431" "Problem Set 4: Series Decay and Cross Sections (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
